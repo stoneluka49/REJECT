@@ -1,15 +1,4 @@
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
-#NGA论坛
-DOMAIN-SUFFIX,g1.tagtic.cn,REJECT
-DOMAIN-SUFFIX,adlog.tagtic.cn,REJECT
-# > 百度网盘
-DOMAIN-SUFFIX,feed-image.baidu.com,REJECT
-# > 我的天气
-DOMAIN-SUFFIX,pic.yupoo.com,REJECT-DICT
-# > 滴滴
-DOMAIN-SUFFIX,gwp.xiaojukeji.com,REJECT-DROP
-# > 网上国网
-DOMAIN-SUFFIX,osg-service.sgcc.com.cn,REJECT-DICT
 # 广告关键词
 DOMAIN-KEYWORD,admarvel, reject
 DOMAIN-KEYWORD,admaster, reject
