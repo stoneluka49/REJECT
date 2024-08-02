@@ -608,3 +608,5 @@ DOMAIN,gdmf.apple.com, reject
 DOMAIN,updates-http.cdn-apple.com, reject
 DOMAIN,xp.apple.com, reject
 
+#微信公众号**************
+DOMAIN-SUFFIX,wxs.qq.com,REJECT
