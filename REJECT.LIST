@@ -610,4 +610,4 @@ DOMAIN,xp.apple.com, reject
 
 #微信公众号**************
 DOMAIN-SUFFIX,wxs.qq.com,REJECT
-DOMAIN-SUFFIX,res.wx.qq.com,REJECT
+
