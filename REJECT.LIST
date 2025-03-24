@@ -424,7 +424,12 @@ DOMAIN-SUFFIX,zzsx8.com, reject
 DOMAIN-SUFFIX,wwads.cn, reject
 DOMAIN-SUFFIX,ulogs.umengcloud.com, reject
 DOMAIN-SUFFIX,fp-it.fengkongcloud.com, reject
+
+#BOSS直聘
+DOMAIN-SUFFIX,logapi-ios.zhipin.com,reject
 DOMAIN-KEYWORD,sofire.baidu.com,reject
+
+#阿里
 DOMAIN-KEYWORD,audid-api.taobao.com,reject
 
 # 广告联盟-国外****************
@@ -606,6 +611,7 @@ DOMAIN-SUFFIX,114so.cn, reject
 DOMAIN-SUFFIX,go.10086.cn, reject
 DOMAIN-SUFFIX,hivedata.cc, reject
 DOMAIN-SUFFIX,navi.gd.chinamobile.com, reject
+DOMAIN-SUFFIX,devs.data.mob.com,reject
 
 # BlockIOSUpdate****************
 DOMAIN,mesu.apple.com, reject
