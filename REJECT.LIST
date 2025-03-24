@@ -24,8 +24,7 @@ DOMAIN-KEYWORD,socdm, reject
 DOMAIN-KEYWORD,supersonicads, reject
 DOMAIN-KEYWORD,wlmonitor, reject
 DOMAIN-KEYWORD,zjtoolbar, reject
-DOMAIN-SUFFIX,ulogs.umengcloud.com, reject
-DOMAIN-SUFFIX,fp-it.fengkongcloud.com, reject
+
 
 # 广告联盟-国内****************
 DOMAIN-SUFFIX,09mk.cn, reject
@@ -423,6 +422,10 @@ DOMAIN-SUFFIX,zhjfad.com, reject
 DOMAIN-SUFFIX,zqzxz.com, reject
 DOMAIN-SUFFIX,zzsx8.com, reject
 DOMAIN-SUFFIX,wwads.cn, reject
+DOMAIN-SUFFIX,ulogs.umengcloud.com, reject
+DOMAIN-SUFFIX,fp-it.fengkongcloud.com, reject
+DOMAIN-KEYWORD,sofire.baidu.com,reject
+DOMAIN-KEYWORD,audid-api.taobao.com,reject
 
 # 广告联盟-国外****************
 DOMAIN-SUFFIX,acuityplatform.com, reject
