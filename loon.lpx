@@ -7,7 +7,7 @@
 #!license=MIT
 #!type=rule,script
 
-[URL Rewrite]
+[Rewrite]
 
 ^https?:\/\/www\.novel543\.com\/log\/ad\.html - reject
 ^https?:\/\/stat\.gn01\.top\/js\/script\.js - reject
