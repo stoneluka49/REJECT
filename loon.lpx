@@ -112,7 +112,6 @@ https://(www|zhuanlan)\.zhihu\.com/api/articles/\d+/recommendation - reject
 # missav 直播跳出广告
 https://creative.live.missav.com/widgets/Spot/lib.js - reject
 
-[Header Rewrite]
 ^https?:\/\/(www\.xvideos)(\.)(\w{0,3})(?!(.*(api|cdn-cgi|verify|auth|captch|\.))).* header-replace Content-Security-Policy *
 
 [Script]
