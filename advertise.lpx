@@ -46,7 +46,7 @@ IP-CIDR,123.207.209.60/32,REJECT-DROP,no-resolve
 ^https?:\/\/afd\.baidu\.com\/afd\/entry - reject-img
 ^https?:\/\/als.baidu.com\/clog\/clog - reject
 ^https?:\/\/fcvbjbcebos\.baidu\.com\/.+?\.mp4 - reject-img
-^https?:\/\/t\d{2}\.baidu\.com - reject-img
+#^https?:\/\/t\d{2}\.baidu\.com - reject-img
 ^https?:\/\/log.+?baidu\.com - reject
 ^https?:\/\/sa\d\.tuisong\.baidu\.com - reject-img
 ^https?:\/\/www.baidu.com\/?action=static&ms=1&version=css_page_2@0.*? - reject
