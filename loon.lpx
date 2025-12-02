@@ -117,7 +117,7 @@ https://creative.live.missav.com/widgets/Spot/lib.js - reject
 [Script]
 http-response ^https?:\/\/(zhidao)\.baidu\.com\/(question|index|\?fr|\?word) script-path=https://limbopro.com/Adguard/Adblock4limbo.js, requires-body=true, tag=知道搜索广告(zhidao.baidu.com)
 
-http-response https?:\/\/(www|m)\.baidu\.com(/$|\/\?ref.*) script-path=https://limbopro.com/Adguard/Adblock4limbo.js, requires-body=true, tag=搜索首页广告(www.baidu.com)
+#http-response https?:\/\/(www|m)\.baidu\.com(/$|\/\?ref.*) script-path=https://limbopro.com/Adguard/Adblock4limbo.js, requires-body=true, tag=搜索首页广告(www.baidu.com)
 
 http-response https?:\/\/(www|m)\.baidu\.com\/(from=|s\?) script-path=https://limbopro.com/Adguard/Adblock4limbo.js, requires-body=true, tag=搜索结果广告(www.baidu.com)
 
